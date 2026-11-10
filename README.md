@@ -1,6 +1,6 @@
 # Marshall CODE Editor
 
-A sloppy vibe-coded Marshall CODE amp settings editor. I needed this to avoid having to turn my chair 90° degrees and having to use the physical buttons and knobs ¯\_(ツ)_/¯
+A sloppy vibe-coded Marshall CODE amp settings editor. I needed this to avoid having to turn my chair 90° degrees and having to use the physical buttons and knobs ¯\\_(ツ)_/¯
 
 This is in no way endorsed or associated with the Marshall Amplification company.
 
