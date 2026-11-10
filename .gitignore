@@ -1,0 +1,26 @@
+# Rust
+/target/
+
+# Node leftovers (old web UI)
+/node_modules/
+package-lock.json
+package.json
+dist/
+.vite/
+
+# Local / probe scratch
+/tmp_probe/
+tools_probe.rs
+*.log
+*.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.sln
+*.sw?
+*~
